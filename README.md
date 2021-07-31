@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-    <a href="https://github.com/ultralytics/yolov5/actions"><img src="https://komarev.com/ghpvc/?username=glenn-jocher&color=green" alt="CI CPU testing"></a>
+    <a href="https://github.com/glenn-jocher"><img src="https://komarev.com/ghpvc/?username=glenn-jocher&color=green" alt="CI CPU testing"></a>
     <a href="https://github.com/ultralytics/yolov5/actions"><img src="https://github.com/ultralytics/yolov5/workflows/CI%20CPU%20testing/badge.svg" alt="CI CPU testing"></a>
     <a href="https://zenodo.org/badge/latestdoi/264818686"><img src="https://zenodo.org/badge/264818686.svg" alt="YOLOv5 Citation"></a>
     <br>
