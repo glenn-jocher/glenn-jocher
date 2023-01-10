@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://ultralytics.com/">
-  <img width="900" src="https://github.com/ultralytics/assets/raw/main/im/banner-ultralytics-github.png"></a>
+  <img width="900" src="https://github.com/ultralytics/assets/raw/main/yolov8/banner-yolov8.png"></a>
 </p>
 
 <div align="center">
