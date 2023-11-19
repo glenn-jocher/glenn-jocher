@@ -2,8 +2,7 @@
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=glenn-jocher&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
   <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=glenn-jocher&hide_border=true" />
   <a href="https://ultralytics.com/"><img width="900" src="https://github.com/ultralytics/assets/raw/main/im/banner-ultralytics-github.png"></a>
-
-  <br>
+  <br><br>
 
 👋 I'm Glenn Jocher, creator of [YOLOv5](https://github.com/ultralytics/yolov5) and [YOLOv8](https://github.com/ultralytics/ultralytics), and founder of [Ultralytics](https://ultralytics.com). 
 
