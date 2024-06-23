@@ -8,7 +8,7 @@
 
 👋 I'm Glenn Jocher, creator of [YOLOv5](https://github.com/ultralytics/yolov5) and [YOLOv8](https://github.com/ultralytics/ultralytics), and founder of [Ultralytics](https://ultralytics.com). 
 
-I've had the great fortune of [contributing](https://docs.ultralytics.com/help/contributing/) to the AI landscape by creating simple solutions that everyone can use, regardless of their means or background. It's my hope that together, with these tools, we can unlock solutions to the world's most pressing challenges. Every YOLO model is a step closer to realizing the positive potential of AI 😃
+I've had the great fortune of [contributing](https://docs.ultralytics.com/help/contributing/) to the AI landscape by creating simple solutions that everyone can use, regardless of their means or background. It's my hope that together, with these tools, we can unlock solutions to the world's most pressing challenges. Every YOLO model is a step closer to realizing the positive potential of AI. 😃
     
 Let's build a brighter future together! 🌍🚀
 
