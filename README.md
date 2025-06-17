@@ -8,7 +8,7 @@
 
 <br>
 
-👋 I'm Glenn Jocher, [YOLO](https://github.com/ultraytics/ultralytics) author and founder of [Ultralytics](https://www.ultralytics.com).
+👋 I'm Glenn Jocher, [YOLO](https://github.com/ultralytics/ultralytics) author and founder of [Ultralytics](https://www.ultralytics.com).
 
 At Ultralytics, our [mission](https://www.ultralytics.com/about) is to move the world forward by continuously pushing the boundaries of AI through relentless execution. By creating intuitive, accessible, and open-source AI [solutions](https://www.ultralytics.com/solutions), we ensure equal access for everyone—regardless of their means or background.
 
