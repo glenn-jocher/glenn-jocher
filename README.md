@@ -4,13 +4,17 @@
 <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=glenn-jocher&hide_border=true" />
 <a href="https://ultralytics.com/"><img width="900" src="https://github.com/ultralytics/assets/raw/main/im/banner-ultralytics-github.png"></a>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=madushadhanushka&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+
 [中文](https://docs.ultralytics.com/zh) | [한국어](https://docs.ultralytics.com/ko) | [日本語](https://docs.ultralytics.com/ja) | [Русский](https://docs.ultralytics.com/ru) | [Deutsch](https://docs.ultralytics.com/de) | [Français](https://docs.ultralytics.com/fr) | [Español](https://docs.ultralytics.com/es) | [Português](https://docs.ultralytics.com/pt) | [Türkçe](https://docs.ultralytics.com/tr) | [Tiếng Việt](https://docs.ultralytics.com/vi) | [العربية](https://docs.ultralytics.com/ar) <br>
 
-👋 I'm Glenn Jocher, creator of [YOLOv5](https://github.com/ultralytics/yolov5) and [YOLOv8](https://github.com/ultralytics/ultralytics), and founder of [Ultralytics](https://www.ultralytics.com/). 
+👋 I'm Glenn Jocher, [YOLO](https://github.com/ultraytics/ultralytics) author and founder of [Ultralytics](https://www.ultralytics.com).
 
-I've had the great fortune of [contributing](https://docs.ultralytics.com/help/contributing/) to the AI landscape by creating simple solutions that everyone can use, regardless of their means or background. It's my hope that together, with these tools, we can unlock solutions to the world's most pressing challenges. I believe every YOLO model is a step closer to realizing the positive potential of AI. 😃
-    
-Let's build a brighter future together! 🌍🚀
+At Ultralytics, our [mission](https://www.ultralytics.com/about) is to move the world forward by continuously pushing the boundaries of AI through relentless execution. By creating intuitive, accessible, and open-source AI [solutions](https://www.ultralytics.com/solutions), we ensure equal access for everyone—regardless of their means or background.
+
+Open source is more than just sharing code; it’s about fostering collaboration, sparking innovation, and empowering individuals to improve their lives and the world around them. Each YOLO model we create is a step closer to a future where transformative AI tools benefit all equally.
+
+Join us as we harness AI’s potential to solve humanity’s greatest challenges and build a brighter, more equitable future together! 🌍✨🚀
 
 <br>
   <a href="https://github.com/ultralytics"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="3%" alt="Ultralytics GitHub"></a>
